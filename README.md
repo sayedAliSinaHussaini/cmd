@@ -2,14 +2,14 @@
 My first project in C#
 ## sample cmd program
 When running, you can use the following commands in this program:
-* create --file <file name>
-* create --dir <directory name>
-* delete --file <file name>
-* delete --dir <directory name>
+* create --file [file name]
+* create --dir [directory name]
+* delete --file [file name]
+* delete --dir [directory name]
 * help
 * exit
 
-##code
+## code
 ```c#
 using System.IO;
 using System;
